@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jfree:jcommon:1.0.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../黑马/传智健康项目/day01/资源/repository_boot/org/jfree/jcommon/1.0.23/jcommon-1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../黑马/传智健康项目/day01/资源/repository_boot/org/jfree/jcommon/1.0.23/jcommon-1.0.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../黑马/传智健康项目/day01/资源/repository_boot/org/jfree/jcommon/1.0.23/jcommon-1.0.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
